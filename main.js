@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("document.body.innerHTML = 'Hello CodeSoom!!!';\n\n\n//# sourceURL=webpack://codesoom-cicd-example/./src/index.js?");
+eval("document.body.innerHTML = 'Happy New Years';\n\n\n//# sourceURL=webpack://codesoom-cicd-example/./src/index.js?");
 
 /***/ })
 
