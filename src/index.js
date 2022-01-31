@@ -1,1 +1,1 @@
-document.body.innerHTML = 'Hello CodeSoom!!!';
+document.body.innerHTML = 'Happy New Years';
